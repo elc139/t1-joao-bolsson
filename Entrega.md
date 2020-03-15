@@ -13,7 +13,7 @@ Nome: João Víctor Bolsson Marques
 | Fabricante e modelo do(s) processador(es)                 |  Intel Xeon Platinum 8160  |  Intel Core i5-6200U  |
 | Frequência do(s) processador(es)                          |  2,1GHz   |  2,3GHz |
 | Memória total                                             |  20.480 GB  |  8GB  |
-| Tipo(s) de interconexão entre os núcleos/processadores    |  Intel Omni-Path  |                 |
+| Tipo(s) de interconexão entre os núcleos/processadores    |  10G Ethernet  |                 |
 | Desempenho Linpack                                        |  1.142 TFlop/s |  74.2663 GFlops/s   |
 
 #### Fonte Linpack: https://software.intel.com/file/835979/downloadIgrnPk92
