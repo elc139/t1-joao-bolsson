@@ -11,7 +11,7 @@ Nome: João Víctor Bolsson Marques
 | Memória: compartilhada, distribuída ou ambas?             |  compartilhada    |  compartilhada  |
 | Número total de núcleos de processamento                  |  27.520  |  2  |
 | Fabricante e modelo do(s) processador(es)                 |  Intel Xeon Platinum 8160  |  Intel Core i5-6200U  |
-| Frequência do(s) processador(es)                          |  2,1GHz   |  2.3GHz |
+| Frequência do(s) processador(es)                          |  2,1GHz   |  2,3GHz |
 | Memória total                                             |  20.480 GB  |  8GB  |
 | Tipo(s) de interconexão entre os núcleos/processadores    |  Intel Omni-Path  |                 |
 | Desempenho Linpack                                        |  1.142 TFlop/s |  74.2663 GFlops/s   |
